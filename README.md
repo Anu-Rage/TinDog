@@ -1,2 +1,1 @@
-# TinDog
-tinder clone
+TinDog Starting Files
